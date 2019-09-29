@@ -1,0 +1,2 @@
+# bim-components
+bim components
